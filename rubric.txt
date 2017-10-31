@@ -1,0 +1,30 @@
+creative project
+
+Using node.js and socket.io to create a web game
+
+Submitting this on time: 5 pts
+Creative Portion: 20 pts
+
+5 25 31 34 37 40 42 52 57 59 62 64 67 69 71 76 81 88 93 98
+
+Users can register, log in, and log out: 6 pts
+Score is recorded and increased as the game is played: 4 pts
+A list of high scores is associated with each user: 3 pts
+Global high scores across all users 3 pts
+Users that are not logged in are prompted for a name to associate with their score: 3 pts
+
+Game uses HTML5 canvas: 10 pts
+Usability and visually appealing: 5 pts
+Code is well formatted and commented: 2 pts
+Sensitive information use POST not GET: 3 pts
+Passwords are not stored in plain text: 2 pts
+Safe from XSS attacks: 3 pts
+Safe from SQL injections: 2 pts
+Page passes the W3C validator: 2 pts
+
+Game functionality (snake)
+user can move character around using arrow keys: 5 pts
+randomly generated 'food' object appears: 5 pts
+when character and food collide, the character's size increases and food disapears: 7 pts
+If the player hits the wall or themself the game is ended 5 pts
+Overall game runs smoothly 5 pts
