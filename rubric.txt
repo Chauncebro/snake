@@ -1,3 +1,5 @@
+Project Final Grade: 100/100
+
 creative project
 
 Using node.js and socket.io to create a web game
